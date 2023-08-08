@@ -1,0 +1,11 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    padding-top: 2rem;
+  }
+
+  .search-icon {
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+  }
